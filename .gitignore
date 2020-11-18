@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+CQhttp-keyword-forward/CQhttp-keyword-forward/CQhttp-keyword-forward.pyproj
+CQhttp-keyword-forward/CQhttp-keyword-forward.sln
+CQhttp-keyword-forward/.vs/CQhttp-keyword-forward/v16/.suo
